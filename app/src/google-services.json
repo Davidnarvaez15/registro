@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595582649960",
+    "project_id": "registro-48bbe",
+    "storage_bucket": "registro-48bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595582649960:android:af30738ee4efd6e47bdddd",
+        "android_client_info": {
+          "package_name": "com.david.myapplication7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Jn5Uztl6MmvDdZkAPqEPuXyRo9lhT6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595582649960:android:eea09f3704184f3e7bdddd",
+        "android_client_info": {
+          "package_name": "com.david.registro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Jn5Uztl6MmvDdZkAPqEPuXyRo9lhT6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
